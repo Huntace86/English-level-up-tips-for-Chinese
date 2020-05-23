@@ -21,7 +21,7 @@
 
 ![CERF@2x.png](assets/CEFR@2x.png)
 
-> 本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
+> 本图主要参考 <http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale>
 
 ## 特色
 
@@ -44,7 +44,7 @@
 
 [![Others@2x.png](assets/Others@2x.png)](part-2/x-misc.md)
 
-### 待完成：
+### 待完成
 
 ![writing@2x.png](assets/writing@2x.png)
 
